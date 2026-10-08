@@ -1,0 +1,10 @@
+# 本地保留，不入库
+分析复现.ipynb
+地区分布.html
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Python
+__pycache__/
